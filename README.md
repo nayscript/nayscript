@@ -1,4 +1,4 @@
-![You banner here!](imagens/banner-readme-templates.jpg) 
+![You banner here!](https://github.com/Nayrlen/Nayrlen/blob/main/imagens/banner-readme-templates.jpg) 
 
 [comment]: <> (i create my banner in Canva editor for free.)
 
